@@ -1,0 +1,3 @@
+/home/yy/Project/db2023/rmdb/rmdb_client/build/CMakeFiles/rmdb_client.dir
+/home/yy/Project/db2023/rmdb/rmdb_client/build/CMakeFiles/edit_cache.dir
+/home/yy/Project/db2023/rmdb/rmdb_client/build/CMakeFiles/rebuild_cache.dir
