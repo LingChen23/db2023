@@ -1,0 +1,3 @@
+D:/DBProject/db23/cmake-build-debug/CMakeFiles/db23.dir
+D:/DBProject/db23/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DBProject/db23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
