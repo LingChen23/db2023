@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 CMakeLists.txt not found in D:\DBProject\db23 Select CMakeLists.txt
+=======
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/yy/Project/db2023/rmdb -B /home/yy/Project/db2023/rmdb/cmake-build-debug-remote-host
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yy/Project/db2023/rmdb/cmake-build-debug-remote-host
+>>>>>>> 996418dbd2ef17e819097719b8a1215c591f25b8
